@@ -1,2 +1,2 @@
 # Automatic-Target-Detection
-A modified paper on target detection
+A modified research paper on target detection.
